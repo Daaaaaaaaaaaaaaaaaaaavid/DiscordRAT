@@ -9,7 +9,7 @@ This tool is for educational use only, the author will not be held responsible f
 
 ## **Setup Guide:**
 You will first need to register a bot with the Discord developper portal and then add the bot to the server that you want (make sure bot has administrator privileges).
-Once the bot is created copy the token of your bot and paste it at line 17.
+Once the bot is created copy the token of your bot and paste it at line 16.
 
 Install requirements :
 ```
